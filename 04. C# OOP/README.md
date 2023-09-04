@@ -1,4 +1,4 @@
-## :white_check_mark: OOP - [Certificated](https://softuni.bg/certificates/details/169611/1acdbac1) :heavy_check_mark:
+## :white_check_mark: C# OOP - [Certificated](https://softuni.bg/certificates/details/169611/1acdbac1) :heavy_check_mark:
 01. Inheritance
 02. Encapsulation
 03. Interfaces and Abstraction

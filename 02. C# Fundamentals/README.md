@@ -1,4 +1,4 @@
-## :white_check_mark: Fundamentals - [Certificated](https://softuni.bg/certificates/details/169444/7000c0d0) :heavy_check_mark:
+## :white_check_mark: C# Fundamentals - [Certificated](https://softuni.bg/certificates/details/169444/7000c0d0) :heavy_check_mark:
 01. Language Comparison
 02. Basic Syntax, Conditional Statements and Loops
 03. Git and GitHub

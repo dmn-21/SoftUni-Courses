@@ -17,7 +17,7 @@ Courses for my education @ Softuni.
 06. Flexbox
 07. Media Queries
 
-## :white_check_mark: OOP - [Certificated](https://softuni.bg/certificates/details/169611/1acdbac1) :heavy_check_mark:
+## :white_check_mark: C# OOP - [Certificated](https://softuni.bg/certificates/details/169611/1acdbac1) :heavy_check_mark:
 01. Inheritance
 02. Encapsulation
 03. Interfaces and Abstraction
@@ -29,7 +29,7 @@ Courses for my education @ Softuni.
 09. Mocking and Test Driven Development
 10. Design Patterns
 
-## :white_check_mark: Advanced - [Certificated](https://softuni.bg/certificates/details/169502/fe943dd4) :heavy_check_mark:
+## :white_check_mark: C# Advanced - [Certificated](https://softuni.bg/certificates/details/169502/fe943dd4) :heavy_check_mark:
 01. Multidimensional Arrays
 02. Sets and Dictionaries Advanced
 03. Streams, Files and Directories
@@ -38,7 +38,7 @@ Courses for my education @ Softuni.
 06. Generics
 07. Iterators and Comparators
 
-## :white_check_mark: Fundamentals - [Certificated](https://softuni.bg/certificates/details/169444/7000c0d0) :heavy_check_mark:
+## :white_check_mark: C# Fundamentals - [Certificated](https://softuni.bg/certificates/details/169444/7000c0d0) :heavy_check_mark:
 01. Language Comparison
 02. Basic Syntax, Conditional Statements and Loops
 03. Git and GitHub
@@ -60,7 +60,7 @@ Courses for my education @ Softuni.
 19. QA Introduction
 20. Basic Web Project
 
-## :white_check_mark: Basics - [Certificated](https://softuni.bg/certificates/details/124142/936bc4d9) :heavy_check_mark:
+## :white_check_mark: C# Basics - [Certificated](https://softuni.bg/certificates/details/124142/936bc4d9) :heavy_check_mark:
 01. First Steps In Coding
 02. Conditional Statements
 03. Conditional Statements Advanced
