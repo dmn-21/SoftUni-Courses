@@ -1,0 +1,89 @@
+@media (width <= 600px) {
+    header > nav {
+        justify-content: initial;
+        width: 13%;
+    }
+
+    header {
+        background-size: 140% auto;
+        background-position: center -1rem;
+        padding: 0;
+    }
+
+    header > nav > ul {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        padding-top: 1rem;
+    }
+
+    header > nav > ul > li {
+        padding-bottom: .3rem;
+    }
+
+    .header-title {
+        padding: 0;
+    }
+
+    .header-title h1 {
+        font-size: 36px;
+    }
+
+    .header-title p {
+        padding: 0 2rem;
+        font-size: 18px;
+    }
+
+    .header-title button {
+       margin-bottom: 3rem;
+    }
+
+    .blog-news p, .content p, .choose-us p, .team-description-wrapper p, .team-description ul li p, .about-us p {
+        opacity: .8;
+    }
+
+    .team-description ul {
+        flex-wrap: wrap;
+    }
+
+    .team-description ul li img {
+        width: 200px;
+        height: 200px;
+    }
+
+    .about-us p:nth-child(3) {
+        width: 100%;
+    }
+
+    .choose-us ul {
+        flex-direction: column;
+    }
+
+    .choose-us p {
+        padding: 0 7.5rem;
+        padding-bottom: 1.5rem;
+    }
+
+    .blog-news ul {
+        flex-direction: column;
+        gap: 2rem;
+        padding-left: 5rem;
+        padding-right: 5rem;
+    }
+
+    .blog-news ul .item .avatar img {
+        height: 100%;
+    }
+
+    .blog-news .content {
+        padding: 0 1rem;
+    }
+
+    .content p {
+        font-size: 14px;
+    }
+
+    .content h4 {
+        font-size: 15px;
+    }
+}

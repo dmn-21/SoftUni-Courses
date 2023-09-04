@@ -1,0 +1,19 @@
+body {
+    background-color: #000;
+}
+
+.site {
+    max-width: 900px;
+    margin: 0 auto;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background: url(../images/background.jpg);
+    background-size: 100% auto;
+    background-position: center -7rem;
+    background-repeat: no-repeat;
+}
+
+.site-footer {
+    margin-top: auto;
+}

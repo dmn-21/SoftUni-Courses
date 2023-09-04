@@ -1,0 +1,210 @@
+@import url(reset.css);
+@import url(typography.css);
+@import url(layout.css);
+@import url(https://use.fontawesome.com/releases/v6.4.2/css/all.css);
+
+.header {
+    display: flex;
+    background-color: #d9d9d9;
+}
+
+.nav {
+    display: flex;
+}
+
+.nav ul {
+    display: flex;
+    padding-left: 3rem;
+    padding-top: 1rem;
+}
+
+.nav li, .nav a {
+    display: block;
+}
+
+.nav li {
+    padding: 0 .5rem;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #000;
+}
+
+.header button {
+    margin: 1rem 3rem .5rem auto;
+    padding: 0 1.5rem;
+    border-radius: .3rem;
+    border: 1px solid #000;
+}
+
+.header button a, .banner button a {
+    text-decoration: none;
+    color: #000;
+    font-size: 10px;
+}
+
+.banner h2 {
+    margin: 7rem 40rem 4rem 12rem;
+}
+
+.banner p {
+    margin: 0 30rem 0 12rem;
+    color: #fff;
+}
+
+.banner button {
+    margin-left: 12rem;
+    margin-bottom: 6rem;
+    background-color: #000;
+    padding: .5rem 1rem;
+    border-radius: .2rem;
+    border: 1px solid #000;
+}
+
+.banner button a {
+    color: #fff;
+}
+
+.info {
+    display: flex;
+    gap: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+    padding-left: 3rem;
+    background-color: #fff;
+}
+
+.info span {
+    font-size: 30px;
+    color: #ff7c4c;
+    font-weight: bold;
+}
+
+.info h3 {
+    padding-top: 1.5rem;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.info p {
+    font-size: 8px;
+}
+
+.cards {
+    display: block;
+    padding: 2rem 3rem 0 3rem;
+    background-color: #d9d9d9;
+}
+
+.card {
+    display: flex;
+}
+
+.card img {
+    display: block;
+    width: 35%;
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+}
+
+.desc h4 {
+    padding-top: 1.5rem;
+    padding-bottom: 1rem;
+    font-size: 10px;
+    opacity: .6;
+}
+
+.desc h2 {
+    font-size: 18px;
+    padding-bottom: 1rem;
+}
+
+.desc p {
+    font-size: 10px;
+    padding-bottom: 0;
+}
+
+.desc a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000;
+}
+
+.desc p:last-child {
+    padding-top: 2rem;
+}
+
+.plans {
+    display: flex;
+    padding: 2rem;
+    gap: 1rem;
+    border-left: 3rem solid #f5f5f5;
+    border-right: 3rem solid #f5f5f5;
+    background-color: #fff;
+}
+
+.plan-desc {
+    flex: 0 1 30%;
+}
+
+.plan-desc h2 {
+    padding: 1rem 0;
+    font-size: 20px;
+}
+
+.plan-desc p {
+    padding-top: 1rem;
+    font-size: 9.5px;
+}
+
+.orange-plan, .black-plan {
+    background-color: #ff7c4c;
+    padding: 1.5rem 7rem;
+    text-align: center;
+}
+
+.black-plan {
+    background-color: #000;
+    color: #fff;
+}
+
+.orange-plan h3, .black-plan h3 {
+    font-size: 16px;
+}
+
+.price {
+    font-size: 50px;
+    font-weight: 200;
+    padding: 0;
+}
+
+.orange-plan p, .black-plan p {
+    padding: .3rem;
+}
+
+.orange-plan span, .black-plan span {
+    font-weight: bold;
+}   
+
+.orange-plan button, .black-plan button {
+    margin-top: 2rem;
+    padding: 1rem 2rem;
+    background-color: #000;
+    color: #fff;
+    border: 1px solid #000;
+    font-size: 10px;
+}
+
+.black-plan button {
+    background-color: #fff;
+    border: 1px solid #fff;
+    color: #000;
+}
+
+.icons {
+    background-color: #d9d9d9;
+    display: flex;
+    gap: 12rem;
+    padding: 2rem 12rem;
+}
